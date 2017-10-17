@@ -10,3 +10,5 @@ HSQLDB 2.3.3
 
 Spring JDBC 4.2.4
 
+Hibernate 5
+
