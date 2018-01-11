@@ -33,7 +33,7 @@
 
 <c:url value="/file.html" var="file"/>
 <c:url value="/jdbc.html" var="jdbc"/>
-<c:url value="/email.html" var="email" />
+<c:url value="/email.html" var="email"/>
 <c:url value="/rest.html" var="rest" />
 <c:url value="/orm.html" var="orm" />
 
